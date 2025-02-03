@@ -16,3 +16,4 @@ After the session ends, and before the next one, you’ll have the opportunity t
 In the last 30 minutes of each session, we will regroup in the main room for a walkthrough of the solution. The code will be reviewed, explained, and executed for everyone’s understanding.
 
 **Anonymous Feedback Form**
+https://forms.gle/gZHm3o7KMw7SUx2EA 
