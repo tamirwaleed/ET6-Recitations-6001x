@@ -12,6 +12,8 @@ Instructions:
 3. Print the modified sentence.
 
 """
+# Get user input
+
 # Define vowels
 
 
