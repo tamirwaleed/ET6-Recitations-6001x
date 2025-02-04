@@ -13,16 +13,21 @@ Instructions:
 2. Use a while loop to iterate num from 1 to 9.
 3. Inside this loop, use another while loop for numbers 1 to 10.
 4. Print each multiplication result, then increment counters properly.
-5. If you have time implemnt it with for loop as well/
+5. If you have time implement it with for loop as well/
 """
 # Initialize outer loop counter
+num = 1  
 
 # Outer loop: Iterate through numbers 1 to 9
-
-# Initialize inner loop counter
-
-# Inner loop: Iterate from 1 to 10
-
-    # Increment inner loop counter
-
-# Increment outer loop counter
+while num <= 9:  
+    print(f"\nMultiplication Table for {num}:")  # Header for each table
+    
+    # Initialize inner loop counter
+    i = 1  
+    
+    # Inner loop: Iterate from 1 to 10
+    while i <= 10:  
+        print(f"{num} x {i} = {num * i}")  
+        i += 1  # Increment inner loop counter
+    
+    num += 1  # Increment outer loop counter
