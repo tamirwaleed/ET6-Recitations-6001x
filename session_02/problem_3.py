@@ -13,11 +13,18 @@ Instructions:
 
 """
 # Get user input
+sentence = input("Enter a sentence: ")
 
 # Define vowels
-
+vowels = "auioeAUIOE"
 
 # Replace vowels with '*'
-
+new_sentence = ""
+for char in sentence:
+    if char in vowels:
+        new_sentence += "*"
+    else:
+        new_sentence += char
 
 # Print the modified sentence
+print("Modified sentence:", new_sentence)
