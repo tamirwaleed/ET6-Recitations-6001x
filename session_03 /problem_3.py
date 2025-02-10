@@ -18,9 +18,16 @@ Define a base case: If n is equal to 1, return 1.
 Otherwise, return n plus the result of sum_n_recursive(n - 1).
 Test the function with several values of n (e.g., 5, 10, 100).
 Example Run:
-python
-Copy
+
 print(sum_n_recursive(5))  # Output: 15
 print(sum_n_recursive(10))  # Output: 55
 
 """
+
+    """Returns the sum of the first n natural numbers using recursion."""
+    # Base case
+
+    # Recursive call: sum of n and sum_n_recursive(n-1)
+
+# Test cases
+
