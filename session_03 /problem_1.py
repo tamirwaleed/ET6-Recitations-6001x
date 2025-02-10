@@ -28,7 +28,7 @@ While there’s still a meaningful range to search:
 Find the middle position.
 Compare this letter with the target:
 If it's the correct letter, return its position.
-If it comes before the target, shift focus to the later half of the string.
+If it comes before the target, shift focus to the latter half of the string.
 If it comes after the target, shift focus to the earlier half.
 Keep repeating until either:
 You find the target letter.
@@ -39,3 +39,26 @@ print(find_char_bisection("acegikm", "g"))  # Output: 3
 print(find_char_bisection("acegikm", "m"))  # Output: 6  
 print(find_char_bisection("acegikm", "b"))  # Output: -1  (not found) 
 """
+
+    #Search for a target character in a sorted string using bisection search.
+    # Starting index of the search range
+
+    # Ending index of the search range
+
+
+    # Calculate the middle index
+    
+    # Character at the middle index
+
+    
+    # Target found, return its position
+  
+    # Target is in the right half, adjust low index
+   
+    # Target is in the left half, adjust high index
+
+     # Target not found, return -1
+
+
+# Test cases
+
