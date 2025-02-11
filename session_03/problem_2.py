@@ -27,3 +27,8 @@ def sum_n_iterative(n):
         total += i  # Add the current number i to total
 
     return total  # Return the final sum
+# Test cases
+print(sum_n_iterative(5))   # Output: 15
+print(sum_n_iterative(10))  # Output: 55
+print(sum_n_iterative(100)) # Output: 5050
+
