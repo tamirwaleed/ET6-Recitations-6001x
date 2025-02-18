@@ -1,4 +1,4 @@
-**Recitation Session 3: Simple Algorithms & Functions**
+**Recitation Session 4: Tuple, List & Dictionary**
 
 Our primary objective during recitation hours is to tackle the challenging aspects of the MITx courses by working through additional coding scenarios. Detailed instructions for each coding exercise are provided in the exercises and are described as comments in the Python files within the designated GitHub repository. You can pull changes from the repository after the solution is published to access the material.
 
@@ -10,7 +10,8 @@ Our primary objective during recitation hours is to tackle the challenging aspec
 
 **Learning Teacher Assitance (LTA):** 
 * Tassabeeh Ahmed
-* Lotfullah Andishmand 
+* Lotfullah Andishmand
+* Nilofar Ahmadi 
 
 **Independent Collaboration:** After the session ends, and before the next one, you’ll have the opportunity to work independently or collaborate on your personal repositories if you wish. Note that your repositories will not be reviewed as part of the course.
 
