@@ -65,4 +65,3 @@ def f(x):
 - None of the above
 
 ✅ **Correct Answer:** `for i in range(100001, -1, -2): print(f)`
-```
