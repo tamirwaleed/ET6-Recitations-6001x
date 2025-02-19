@@ -75,3 +75,4 @@ Instructions
 print(closest_power(3, 12))  # Output: 2
 print(closest_power(4, 12))  # Output: 2
 print(closest_power(4, 1))   # Output: 0
+"""
