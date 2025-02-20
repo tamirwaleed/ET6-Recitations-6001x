@@ -13,7 +13,7 @@ L = {'1':1, '2':2, '3':3}
 - L is immutable
 - L contains 6 elements
 - L has integer keys
-- L maps strings to integers [X]
+- L maps strings to integers 
 
 ✅ **Correct Answer:** L maps strings to integers.
 
@@ -31,7 +31,7 @@ L = {'1':1, '2':2, '3':3}
 **In Python, which of the following is a mutable object?**
 - a string
 - a tuple
-- a list [X]
+- a list 
 - all of the above
 - none of the above
 
@@ -41,7 +41,7 @@ L = {'1':1, '2':2, '3':3}
 **Assume the statement `s[1024] = 3` does not produce an error message. This implies:**
 - `type(s)` can be `str`
 - `type(s)` can be `tuple`
-- `type(s)` can be `list` [X]
+- `type(s)` can be `list` 
 - All of the above
 
 ✅ **Correct Answer:** `type(s)` can be `list`.
@@ -58,7 +58,7 @@ def f(x):
 - `print(L[3])`
 - `print(d['b'])`
 - ```python
-  for i in range(100001, -1, -2): [X]
+  for i in range(100001, -1, -2): 
       print(f)
   ```
 - `print(int('abc'))`
@@ -75,11 +75,11 @@ for thing in stuff:
         print("Found it")
 ```
 **Select all the values of the variable `stuff` that will make the code print "Found it".**
-- `["iBoy", "iGirl", "iQ", "iC","iPaid","iPad"]` [X]
-- `( "iBoy", "iGirl", "iQ", "iC","iPaid","iPad" )` [X]
+- `["iBoy", "iGirl", "iQ", "iC","iPaid","iPad"]` 
+- `( "iBoy", "iGirl", "iQ", "iC","iPaid","iPad" )` 
 - `[ ( "iBoy", "iGirl", "iQ", "iC","iPaid","iPad" ) ]`
 - `( [ "iBoy", "iGirl", "iQ", "iC","iPaid","iPad" ], )`
-- `["iQ"]` [X]
+- `["iQ"]` 
 - `"iQ"`
 
 ✅ **Correct Answer:** `["iBoy", "iGirl", "iQ", "iC","iPaid","iPad"]`, `( "iBoy", "iGirl", "iQ", "iC","iPaid","iPad" )`, `["iQ"]`
@@ -104,6 +104,6 @@ def SquareHelper(n, x):
 - Python has arbitrary precision arithmetic.
 - This function will not work for negative numbers.
 - The call `SquareHelper(abs(x), abs(x))` won't work because you can't have `abs(x)` as both parameters.
-- Nothing is wrong; the code is fine as-is. [X]
+- Nothing is wrong; the code is fine as-is. 
 
 ✅ **Correct Answer:** Nothing is wrong; the code is fine as-is.
